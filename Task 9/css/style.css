@@ -1,0 +1,18 @@
+[class*="test"]{
+background-color:brown;
+}
+[class$="yes"]{
+text-align:center;
+}
+[class^="no"]{
+color:blue;
+}
+a[target]{
+background-color:yellow;
+}
+[title~=anime]{
+border:5px solid yellow;
+}
+[class|="name"]{
+color:red;
+}
